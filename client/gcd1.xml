@@ -1,0 +1,5 @@
+<envelope>
+   <method>gcd</method>
+   <arg>8</arg>
+   <arg>12</arg>
+</envelope>

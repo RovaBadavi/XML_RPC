@@ -1,0 +1,5 @@
+<envelope>
+   <method>gcd</method>
+   <arg>18</arg>
+   <arg>6</arg>
+</envelope>
